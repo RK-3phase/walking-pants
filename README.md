@@ -1,2 +1,2 @@
 # walking-pants
-1% ironman now: exoskeleton legs, fixed to frame, helping user rehabilitate with pre-sefined steps
+phase 1: user supported by harnes with exoskeleton legs fixed to outer frame, helping user rehabilitate with one pre-sefined step at a time
