@@ -1,0 +1,9 @@
+I am not familiar with using github so I'm testing all of:
+
+Stage = Mark files to be included in the next commit
+Commit = Save a snapshot of your changes locally with a description
+Push = Upload your commits from your PC to GitHub
+Pull = Download changes from GitHub to your PC
+Clone = Copy a repository from GitHub to your PC (what you just did)
+Fetch = Check for updates on GitHub without downloading them
+Merge = Combine changes from different sources
